@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+    display:flex;
+    justify-content:space-around;
+   
+}
+a{
+    text-decoration-line: none;
+    color:black;
+    border:3px groove black;
+    font-size:26px;
+    padding:1%;
+    margin-top:40vh;
+    
+}  
+a:hover{
+    color:white;
+    background-color:black;
+    border:5px groove rgb(202, 202, 202);
+    font-size:30px;  
+} 

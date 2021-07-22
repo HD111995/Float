@@ -1,0 +1,21 @@
+section{
+    text-align:center;
+}
+img{
+    width:140px;
+    height:140px;
+}
+
+div{
+    width:600px;
+    margin:10vh auto;
+}
+h1{
+  font-size:40px;  
+}
+section div:first-of-type>img{
+float:left;
+}
+section div:last-of-type>img{
+    float:right;
+    }
